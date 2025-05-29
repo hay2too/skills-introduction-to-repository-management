@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @hay2too
+/src/backend/database.py      @hay2too
+/src/backend/routers/auth.py  @hay2too
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @hay2too
